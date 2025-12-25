@@ -36,3 +36,7 @@ The project focuses on clean UI, async JavaScript logic, and real-world API hand
 LeetCode does not provide an official public API.  
 This project uses a **community API** for learning and demonstration purposes only.
 
+## 🌐 Live Demo
+https://sumit-sharma99111.github.io/leetcode-matrix/
+
+
